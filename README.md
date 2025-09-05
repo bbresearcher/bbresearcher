@@ -37,7 +37,7 @@
 - https://github.com/zBlock-1/spartan-ecdsa-audit-report
 
 ### Shieldify
-(Some findings in this report)
+(Some findings in this report --> Criticals/Mediums/Low/Informational)
 - https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Guanciale-Stake-Security-Review.pdf
   
 
