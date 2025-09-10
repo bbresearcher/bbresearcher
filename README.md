@@ -1,7 +1,8 @@
 ## Welcome to the profile of *bbresearcher*
 ### Skills
-- solidity
-- evm
+- Alumni ZK Resident at Electisec
+- Solidity
+- Evm
 - Go
 - Cosmos SDK and CosmWasm
 - Rust
@@ -10,14 +11,13 @@
 - Vyper
 - Noir
 - Circom
-- Alumni zk resident at Electisec
 
 ## Have studied or Busy skilling up on
-- Solana
+- Solana (Check out my Utility called [SolO](https://github.com/bbresearcher/solO) in one of my Repos)
 - Ink
 - Substrate
 
-## Audits
+## Audit Findings
 ### Code4rena
 - https://github.com/code-423n4/2023-08-dopex-findings/issues/1227
 - https://github.com/code-423n4/2023-08-goodentry-findings/issues/83
