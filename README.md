@@ -11,6 +11,7 @@
 - Vyper
 - Noir
 - Circom
+- PNPT Certification (TCM Academy)
 
 ## Have studied or Busy skilling up on
 - Solana (Check out my Utility called [SolO](https://github.com/bbresearcher/solO) in one of my Repos)
