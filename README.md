@@ -18,6 +18,8 @@
 - Ink
 - Substrate
 - Certora Prover
+- RISC-V
+- zkVM
 
 ## Audit Findings
 ### Code4rena
