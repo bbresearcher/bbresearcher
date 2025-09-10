@@ -1,10 +1,10 @@
 ## Welcome to the profile of *bbresearcher*
 ### Skills
-- Alumni ZK Resident at Electisec
+- Alumni ZK Resident at Electisec (Repo with information and tutorials [ZK](https://github.com/bbresearcher/ZK/tree/main))
 - Solidity
 - Evm
 - Go
-- Cosmos SDK and CosmWasm
+- Cosmos SDK and CosmWasm (Repo with information [Cosmos Examples](https://github.com/bbresearcher/cosmos_examples))
 - Rust
 - Cairo
 - Halo2
