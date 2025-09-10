@@ -10,7 +10,7 @@
 - Halo2
 - Vyper
 - Noir
-- Circom
+- Circom (Check out Fuzzing Utility at my repo [Fuzzy](https://github.com/bbresearcher/Fuzzy))
 - PNPT Certification (TCM Academy)
 
 ## Have studied or Busy skilling up on
