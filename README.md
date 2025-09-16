@@ -15,11 +15,13 @@
 
 ## Have studied or Busy skilling up on
 - Solana (Check out my Utility called [SolO](https://github.com/bbresearcher/solO) in one of my Repos)
+- RISC-V
+- zkVM
+- Gnark [https://docs.gnark.consensys.io/](https://docs.gnark.consensys.io/)
 - Ink
 - Substrate
 - Certora Prover
-- RISC-V
-- zkVM
+
 
 ## Audit Findings
 ### Code4rena
