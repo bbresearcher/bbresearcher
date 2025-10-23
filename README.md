@@ -14,7 +14,7 @@
 - PNPT Certification (TCM Academy)
 
 ## Have studied or Busy skilling up on
-- Solana (Currently doing Rektoff Solana Bootcamp)(Check out my Utility called [SolO](https://github.com/bbresearcher/solO) in one of my Repos)
+- **Solana (Currently doing Rektoff Solana Bootcamp)**(Check out my Utility called [SolO](https://github.com/bbresearcher/solO) in one of my Repos)
 - RISC-V
 - zkVM
 - Gnark [https://docs.gnark.consensys.io/](https://docs.gnark.consensys.io/)
