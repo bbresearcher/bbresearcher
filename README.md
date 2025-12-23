@@ -1,6 +1,7 @@
 ## Welcome to the profile of *bbresearcher*
 ### Skills
 - Alumni ZK Resident at Electisec (Repo with information and tutorials [ZK](https://github.com/bbresearcher/ZK/tree/main))
+- **Solana (Graduated Cohort2 Rektoff Solana Bootcamp)**(Check out my Utility called [SolO](https://github.com/bbresearcher/solO) in one of my Repos)
 - Solidity
 - Evm
 - Go
@@ -14,7 +15,6 @@
 - PNPT Certification (TCM Academy)
 
 ## Have studied or Busy skilling up on
-- **Solana (Currently doing Rektoff Solana Bootcamp)**(Check out my Utility called [SolO](https://github.com/bbresearcher/solO) in one of my Repos)
 - RISC-V
 - zkVM
 - Gnark [https://docs.gnark.consensys.io/](https://docs.gnark.consensys.io/)
